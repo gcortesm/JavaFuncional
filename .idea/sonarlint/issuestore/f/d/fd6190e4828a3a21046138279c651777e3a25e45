@@ -1,0 +1,17 @@
+
+V
+java:S3516"9Refactor this method to not always return the same value.(¡Ì’¹8•˜ ò»/
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Æ×åÍ8—˜ ò»/
+Q	java:S125"<This block of commented-out lines of code should be removed.(‹«â¤
+B
+java:S1612
+",Replace this lambda with a method reference.(—»š
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(—»š
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÆÍ¹ýÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "s" parameter(•¤ŽÇ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•¤ŽÇ
+J
+java:S2201"-The return value of "orElseGet" must be used.(¶Þ‚˜8ÈÕŸò»/

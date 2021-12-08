@@ -1,0 +1,21 @@
+
+>
+java:S1604
+"(Make this anonymous inner class a lambda(ÃŞ±ü
+l
+java:S4276
+"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ÃŞ±ü
+s
+java:S4276"XRefactor this code to use the more specialised Functional Interface 'Predicate<Integer>'(œæÎøÿÿÿÿ
+m
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(Ä‰Œùşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒˆÁ«øÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ç¯Îúÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¯ë‚®üÿÿÿÿ
+E
+java:S6212&"/Declare this local variable with "var" instead.(Æ¯Æû
+J
+java:S6212'"/Declare this local variable with "var" instead.(ˆÚÎûÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Òú®Éúÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(€Åè°
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(¸ÀÂû

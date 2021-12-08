@@ -1,0 +1,12 @@
+
+]
+java:S3959"GRefactor this code so that this consumed stream pipeline is not reused.(˜Ëªà
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ‚äÑ
+B
+java:S1612",Replace this lambda with a method reference.(‹Ø¨Î
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹Ø¨Î
+B
+java:S1612",Replace this lambda with a method reference.(˜Ëªà
+N
+java:S1612",Replace this lambda with a method reference.(å¾™®úÿÿÿÿ8Òòöò»/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(å¾™®úÿÿÿÿ8Òòöò»/
